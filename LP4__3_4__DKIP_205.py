@@ -1,6 +1,7 @@
 ﻿# Лабораторная работа №4: Изучение интегрированной среды разработчика
 # Выполняли Бахтин Данила, Бритвин Антон
 # ДКИП-205
+# Вариант 3-4
 
 def print_hex_multiplication_table(n):
     print("Hex Multiplication Table (up to {0} x {0}):".format(n))
